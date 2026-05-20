@@ -7,7 +7,7 @@
 set -e
 
 REPO_URL="https://github.com/ggml-org/llama.cpp.git"
-STABLE_COMMIT="acd604fb277044e07c2bff01f4c169167b45f478"
+STABLE_COMMIT="21f27c4c08172ba721451bec56e69d0871008ec9"
 TARGET_DIR="llama.cpp-gfx906-turbo"
 PATCH_FILE="turbo-gfx906-mtp.patch"
 
